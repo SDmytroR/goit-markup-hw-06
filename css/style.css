@@ -844,4 +844,41 @@ a {
     cursor: pointer;
 }
 
+/**
+  |============================
+  | Modal window
+  |============================
+*/
+/* strong */
+.modal-wind-title {
+    display: block;
+    text-align: center;
+    margin-top: 72px;
+}
+
+/* form */
+.modal-wind-form {
+    margin-top: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+/* input */
+input {}
+
+/* label */
+label {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 8px;
+    font-family: inherit;
+}
+
+/* button */
+.modal-wind-btn {
+    display: flex;
+
+}
+
 /* THE END */
