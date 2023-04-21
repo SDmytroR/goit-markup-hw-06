@@ -616,6 +616,7 @@ a {
 
 /* div */
 .container3 {
+    position: relative;
     margin-left: 80px;
 }
 
@@ -624,15 +625,12 @@ a {
     margin-bottom: 16px;
 }
 
-/* div */
+/* form */
 .footer-subs-email {
     position: relative;
     display: flex;
     gap: 24px;
 }
-
-/* label */
-.footer-email {}
 
 /* input */
 .input-footer-email {
@@ -1050,6 +1048,11 @@ a {
   | Checkbox
   |============================
 */
+/* svg */
+.modal-wind-checkbox {
+    cursor: pointer;
+}
+
 /* use */
 .icon-default {
     opacity: 1;
