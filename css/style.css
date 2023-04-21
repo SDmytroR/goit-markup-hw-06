@@ -626,7 +626,7 @@ a {
 }
 
 /* form */
-.footer-subs-email {
+.footer-subs-form {
     position: relative;
     display: flex;
     gap: 24px;
